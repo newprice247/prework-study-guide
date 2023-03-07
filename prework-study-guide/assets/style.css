@@ -35,5 +35,7 @@ p {
     margin: 40px auto;
     border: 5px solid black;
     box-shadow: 5px 10px grey;
-    background-color: lightblue;
+    background-color: maroon;
+    color: white;
+    padding-bottom: 20px;
   }
