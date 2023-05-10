@@ -5,8 +5,8 @@
 header,
 footer {
     width: 100%;
-    background-color: rgb(98, 89, 255);
-    color: black;
+    background-color: rgb(23, 11, 246);
+    color: rgb(255, 255, 255);
     padding: 10px;
 }
 h1,
@@ -35,7 +35,7 @@ p {
     margin: 40px auto;
     border: 5px solid black;
     box-shadow: 5px 10px grey;
-    background-color: maroon;
-    color: white;
+    background-color: rgb(189, 189, 189);
+    color: rgb(0, 0, 0);
     padding-bottom: 20px;
   }
